@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS402: Computer Communications and Networks"
+course_description: "A detailed introduction to the basic hardware, software, and architectural components of computer communications in local area networks. Focuses on understanding the basics of computer networks, switching, routing, protocols, and security."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Multimedia, Security, and Cloud Computation over the
 Internet** <span id="7"></span> 
 *Multimedia over the Internet becomes more and more popular. This unit

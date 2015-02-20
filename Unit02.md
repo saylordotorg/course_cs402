@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS402: Computer Communications and Networks"
+course_description: "A detailed introduction to the basic hardware, software, and architectural components of computer communications in local area networks. Focuses on understanding the basics of computer networks, switching, routing, protocols, and security."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Networking Fundamentals: Protocols** <span id="2"></span> 
 
 *In life, protocols define the way we interact with other people – for

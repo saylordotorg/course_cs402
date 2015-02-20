@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS402: Computer Communications and Networks"
+course_description: "A detailed introduction to the basic hardware, software, and architectural components of computer communications in local area networks. Focuses on understanding the basics of computer networks, switching, routing, protocols, and security."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Network Layer** <span id="5"></span> 
 *In this unit, we will learn how* packets *(groupings of data) travel on
 a network and how each machine can be addressed uniquely so that data

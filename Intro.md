@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS402: Computer Communications and Networks"
+course_description: "A detailed introduction to the basic hardware, software, and architectural components of computer communications in local area networks. Focuses on understanding the basics of computer networks, switching, routing, protocols, and security."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "CS402: Computer Communications and Networks"
 -----------------------------------------------------------------
 

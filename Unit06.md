@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS402: Computer Communications and Networks"
+course_description: "A detailed introduction to the basic hardware, software, and architectural components of computer communications in local area networks. Focuses on understanding the basics of computer networks, switching, routing, protocols, and security."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Link Layer** <span id="6"></span> 
 *The final layer of the TCP/IP protocol stack that you will learn in
 this course is known as the link layer. This unit will explain how you

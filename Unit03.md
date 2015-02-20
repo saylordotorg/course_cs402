@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS402: Computer Communications and Networks"
+course_description: "A detailed introduction to the basic hardware, software, and architectural components of computer communications in local area networks. Focuses on understanding the basics of computer networks, switching, routing, protocols, and security."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Application Layer** <span id="3"></span> 
 *In this unit, we will examine the application layer of the TCP/IP
 stack. The application layer is where all network processes and

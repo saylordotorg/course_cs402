@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS402: Computer Communications and Networks"
+course_description: "A detailed introduction to the basic hardware, software, and architectural components of computer communications in local area networks. Focuses on understanding the basics of computer networks, switching, routing, protocols, and security."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Transport Layer (TCP/UDP)** <span id="4"></span> 
 *When we talk about networks, we are talking about data transport. The
 TCP/IP stack provides a TCP/UDP layer that handles the data transport
